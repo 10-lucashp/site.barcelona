@@ -14,10 +14,10 @@ scroll-behavior: smooth;
 
 
 body{
-    background-color: darkred;
+    background-color: black;
 
 p{color: white}
-h1{color: yellow}
+h1{color: darkred}
 }
 
 header{
